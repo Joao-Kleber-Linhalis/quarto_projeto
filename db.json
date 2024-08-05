@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "titulo": "Celular edit 2",
+      "categoria": "Eletronico",
+      "modelo": "X10",
+      "quantidade": 100,
+      "preco": 500,
+      "descricao": "Celular muito bom",
+      "img": "https://th.bing.com/th/id/R.597a9aabe1f271bc1db0147fcdb4f4c3?rik=RrMqYFEY%2bHQ1dA&pid=ImgRaw&r=0",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "titulo": "Televisão",
+      "categoria": "Eletronico",
+      "modelo": "Roku",
+      "quantidade": 10,
+      "descricao": "Tv muito bom",
+      "preco": 1000,
+      "img": "https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2023/10/smart-tv-32-roku.jpg"
+    },
+    {
+      "titulo": "aaaa editado",
+      "categoria": "a",
+      "modelo": "a",
+      "quantidade": 5555,
+      "preco": 5555,
+      "descricao": "aaaa",
+      "img": "file:///data/user/0/com.quarto_projeto/cache/rn_image_picker_lib_temp_c17b834c-d606-4888-9134-45e825e0dc1a.jpg",
+      "id": "8812"
+    },
+    {
+      "id": "3909",
+      "titulo": "aaaa",
+      "categoria": "a",
+      "modelo": "a",
+      "quantidade": 5555,
+      "preco": 5555,
+      "descricao": "aaaa",
+      "img": "file:///data/user/0/com.quarto_projeto/cache/rn_image_picker_lib_temp_c17b834c-d606-4888-9134-45e825e0dc1a.jpg"
+    },
+    {
+      "id": "9075",
+      "titulo": "aaaa",
+      "categoria": "a",
+      "modelo": "a",
+      "quantidade": 5555,
+      "preco": 5555,
+      "descricao": "aaaa",
+      "img": "file:///data/user/0/com.quarto_projeto/cache/rn_image_picker_lib_temp_c17b834c-d606-4888-9134-45e825e0dc1a.jpg"
+    }
+  ]
+}
